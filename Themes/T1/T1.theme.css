@@ -113,8 +113,8 @@
 /*  Backgrounds
 /*  -  can be links, colors or gradients (links must be HTTPS) */
 
---background-app: url(https://eight-p.github.io/BD.8P/Themes/T1/assets/Main-bg.jpg);
---background-server: url(https://eight-p.github.io/BD.8P/Themes/T1/assets/Server-bg.jpg);
+--background-app: 0,0,0;
+--background-server: 0,0,0;
 
 
 /*  Background brightness
